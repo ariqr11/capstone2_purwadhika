@@ -17,7 +17,7 @@ Industri TLC ini memiliki tantangan penting dalam mengoptimalkan penggunaan arma
 - Mobilisasi Armada
 - Metode Pembayaran
 
-## Data Under Standing
+## Data Understanding
 Untuk kasus ini, kita menggunakan dataset NYC TLC Trip Record tahun 2023. Berikut adalah penjelasan untuk tiap kolom databasenya
 
 - VendorID: Kode yang menunjukkan penyedia LPEP yang menyediakan rekaman. 
