@@ -58,3 +58,6 @@ Untuk kasus ini, kita menggunakan dataset NYC TLC Trip Record tahun 2023. Beriku
   - 2 = Dispatch
 - eHail fee adalah biaya atau tambahan biaya yang dikenakan kepada pengguna layanan taksi atau transportasi berbasis aplikasi ketika mereka memesan taksi melalui platform elektronik atau aplikasi.
 - Congestion surcharge adalah biaya tambahan yang dikenakan kepada pengguna layanan transportasi, seperti taksi atau layanan berbasis aplikasi, ketika mereka menggunakan layanan tersebut dalam kondisi lalu lintas yang padat atau di daerah-daerah dengan kemacetan tinggi.
+
+
+LINK TABLEAU : https://public.tableau.com/views/Modul2-Capstone/StoryCapstone?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
