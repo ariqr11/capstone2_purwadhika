@@ -61,3 +61,5 @@ Untuk kasus ini, kita menggunakan dataset NYC TLC Trip Record tahun 2023. Beriku
 
 
 LINK TABLEAU : https://public.tableau.com/views/Modul2-Capstone/StoryCapstone?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+
+P.S. : Apabila ingin melihat keseluruhan plot, silahkan mendownload filenya dan running di local dikarenakan tidak semua plot bisa tergenerate di github karena sifatnya interaktif.
