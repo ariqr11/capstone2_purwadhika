@@ -60,6 +60,10 @@ Untuk kasus ini, kita menggunakan dataset NYC TLC Trip Record tahun 2023. Beriku
 - Congestion surcharge adalah biaya tambahan yang dikenakan kepada pengguna layanan transportasi, seperti taksi atau layanan berbasis aplikasi, ketika mereka menggunakan layanan tersebut dalam kondisi lalu lintas yang padat atau di daerah-daerah dengan kemacetan tinggi.
 
 
+## Data Preprocessing dan Analysis
+Tahapan data preprocessing dan analisis data merupakan komponen krusial dalam pengolahan data yang terdapat dalam file Jupyter Notebook. Data preprocessing melibatkan langkah-langkah seperti pembersihan data dari nilai-nilai yang hilang atau outliers, normalisasi atau standarisasi, serta penggabungan data dari berbagai sumber. Proses ini bertujuan untuk memastikan data yang digunakan dalam analisis selanjutnya memiliki kualitas yang baik. Setelah data preprocessing selesai dilakukan, tahap analisis data mengambil peran dengan menerapkan berbagai teknik statistik, visualisasi, dan eksplorasi data. Melalui langkah-langkah ini, informasi penting bisa diungkap, pola dapat diidentifikasi, dan insight berharga bisa diperoleh. Penggunaan Jupyter Notebook mempermudah kedua tahapan ini dengan menyediakan lingkungan interaktif untuk menjalankan kode, membuat visualisasi, dan mendokumentasikan proses secara rapi. Dengan kombinasi data preprocessing yang cermat dan analisis data yang teliti di dalam Jupyter Notebook, kita dapat mengambil keputusan yang lebih informasional dan mendalam dari dataset yang tersedia.
+
+
 LINK TABLEAU : https://public.tableau.com/views/Modul2-Capstone/StoryCapstone?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
 P.S. : Apabila ingin melihat keseluruhan plot, silahkan mendownload filenya dan running di local dikarenakan tidak semua plot bisa tergenerate di github karena sifatnya interaktif.
